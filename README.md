@@ -13,7 +13,7 @@ This project is about data analysis and visualization using Excel and Python.
 - Dashboard Creation
 
 ## 📷 Screenshots
-(GITHUB2)
+(![GITHUB2](GITHUB2.png))
 
 ## 🚀 Author
 Nasrat Abid - Data Science Student
