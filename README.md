@@ -1,2 +1,19 @@
-# sales-data-analysis-and-data-visualization-project
-This project includes data analysis and visualization using Excel and Python.
+# Data Analysis Project
+
+## 📊 Overview
+This project is about data analysis and visualization using Excel and Python.
+
+## 🔧 Tools Used
+- MS Excel
+- Python
+
+## 📈 Features
+- Data Cleaning
+- Data Analysis
+- Dashboard Creation
+
+## 📷 Screenshots
+(GITHUB2)
+
+## 🚀 Author
+Nasrat Abid - Data Science Student
